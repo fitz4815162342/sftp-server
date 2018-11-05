@@ -1,4 +1,7 @@
 #!/bin/bash
+
+#install and configure sftp
+
 set -e
 
 # Paths
